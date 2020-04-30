@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="77291" started-at="2020-04-30T10:49:21Z" finished-at="2020-04-30T10:50:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="77291" started-at="2020-04-30T10:49:21Z" finished-at="2020-04-30T10:50:38Z">
+      <class name="NewTest">
+        <test-method status="PASS" signature="createLogin()[pri:0, instance:NewTest@8bd1b6a]" name="createLogin" duration-ms="27465" started-at="2020-04-30T16:19:21Z" finished-at="2020-04-30T16:19:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLogin -->
+        <test-method status="PASS" signature="transactionSignin()[pri:0, instance:NewTest@8bd1b6a]" name="transactionSignin" duration-ms="49780" started-at="2020-04-30T16:19:48Z" finished-at="2020-04-30T16:20:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- transactionSignin -->
+      </class> <!-- NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
